@@ -1,1 +1,0 @@
-knowledge on c Preprocessor 
